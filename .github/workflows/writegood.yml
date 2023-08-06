@@ -1,0 +1,23 @@
+on:
+  push:
+    branches:
+      - main
+
+name: "Trigger: Push action for writegood"
+run-name: ${{ github.actor }} is using writegood!
+permissions: {}
+
+jobs:
+  wirtegood:
+    name: writegood
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - name: Use Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18.x'
+    - name: Install dependencies writegood
+      run: npm install -g write-good
+    - name: Use writegood
+      run: write-good *.md
