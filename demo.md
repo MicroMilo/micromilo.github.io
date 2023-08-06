@@ -1,3 +1,3 @@
 # demo
 
-It should have been defined there.
+write-good test pass
