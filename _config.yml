@@ -22,9 +22,9 @@ repository               : "micromilo/micromilo.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : #"Your Sidebar Name"
+  name             : "MicroMilo"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "soft-engineer graduate student, marathon runner"
   location         : "Earth"
   employer         : #"Red Brick University"
   uri              : # URL
