@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>科研 on Milo&#39;s blog</title>
+    <link>http://localhost:1313/tags/%E7%A7%91%E7%A0%94/</link>
+    <description>Recent content in 科研 on Milo&#39;s blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 18 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E7%A7%91%E7%A0%94/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>科研论跟读实操</title>
+      <link>http://localhost:1313/post/2024-03-18-%E7%A7%91%E7%A0%94%E8%AE%BA/</link>
+      <pubDate>Mon, 18 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-03-18-%E7%A7%91%E7%A0%94%E8%AE%BA/</guid>
+      <description>什么科研摸鱼仔 :(</description>
+    </item>
+  </channel>
+</rss>

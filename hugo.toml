@@ -1,3 +1,15 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://micromilo.github.io/'
+theme= 'github-style'
+languageCode = 'zh-cn'
+title = "Milo's blog"
+
+[params]
+  author = "Milo :)"
+  description = "弱小和无知不是生存的障碍，傲慢才是"
+  github = "MicroMIlo"
+  email = "micro6947@gmail.com"
+  userStatusEmoji = "😀"
+  favicon = "/images/github-mark.png"
+  avatar = "/images/avatar.jpg"
+  headerIcon = "/images/GitHub-Mark-Light-32px.png"
+  location = "China"
