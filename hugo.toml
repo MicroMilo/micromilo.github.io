@@ -1,7 +1,7 @@
 baseURL = 'https://micromilo.github.io/'
 theme= 'github-style'
 languageCode = 'zh-cn'
-title = "Milo's blog"
+title = "Milo's blog :) :)  :)"
 
 [params]
   author = "Milo :)"
